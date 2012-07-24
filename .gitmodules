@@ -1,0 +1,3 @@
+[submodule "bundles/basset"]
+	path = bundles/basset
+	url = git://github.com/studiofrenetic/basset.git
